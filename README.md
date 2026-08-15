@@ -1,1 +1,1 @@
-Profolio webbsite hosted on Github pages.
+Profolio website hosted on Github pages.
